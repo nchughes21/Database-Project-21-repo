@@ -34,8 +34,11 @@
 #### - Faculty is represented by title, highest degree, and degree college.
 #### - Staff includes Position and Admin (Y or N).
 #### - specified location on campus for food drop off(dorms, student center)
-#### -
-#### - 
+#### - there will be seperet ratings for the driver and resturant that will combine to make the order rating.
+#### - the order rating will only be seen by the company
+#### - the resturant order will only be seen by the resturant
+#### - the driver rating will only be seen by the driver.
+#### - it is not manditory for the customer to rate the order.
 
 ## EERD
 
