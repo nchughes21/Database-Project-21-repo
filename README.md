@@ -1,7 +1,7 @@
 # Database-Project-21-repo
 
 ## Team Name
-#### sample text
+#### NHJO
 
 ## Team Members
 ### Nikolas Hughes
