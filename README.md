@@ -34,6 +34,7 @@
 #### - Faculty is represented by title, highest degree, and degree college.
 #### - Staff includes Position and Admin (Y or N).
 #### - specified location on campus for food drop off(dorms, student center)
+#### - only approved resturansts used for pick up
 #### - there will be seperet ratings for the driver and resturant that will combine to make the order rating.
 #### - the order rating will only be seen by the company
 #### - the resturant order will only be seen by the resturant
@@ -49,7 +50,7 @@
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
 
 ## Future Work
- 
+####- create approval system within database for drivers and resturants
 
 Have folders for images, code.
 Turn in Github URL.
