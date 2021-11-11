@@ -43,6 +43,7 @@
 
 ## EERD
 
+![Screenshot (10)](https://user-images.githubusercontent.com/93001002/141215745-45d2e7e1-7c2c-42c8-b388-696202e3532b.png)
 
 ## Data Dictionary
 
