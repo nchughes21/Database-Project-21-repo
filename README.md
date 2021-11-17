@@ -51,7 +51,23 @@
 
 
 ## SQL Code for Queries, Stored Procedures, Views (screen shots)
-
+###part(a)
+##########//This is not the correct way of doing part(b) but i kept getting errors when joining multiple tables.\\ I just implemented the restaurant_id to its appropriate position in the ratings table.\\//
+####select resturant_rating.resturant_id,
+    max((resturant_rating.food_quality + resturant_rating.price + resturant_rating.temp)/3) AS Max_rating, 
+    min((resturant_rating.food_quality + resturant_rating.price + resturant_rating.temp)/3) as min_rating, 
+    avg((resturant_rating.food_quality + resturant_rating.price + resturant_rating.temp)/3) as avg_rating
+    from campus_eats_fall2020.resturant_rating
+    where resturant_rating.resturant_id = 5
+###part(b)
+#####//This is not the correct way of doing part(b) but i kept getting errors when joining multiple tables.\\ I just implemented the driver_id to its appropriate position in the ratings table.\\//
+####select driver_rating.driver_id, 
+    max((driver_rating.time + driver_rating.likeability + driver_rating.order_quality_delivered)/3) AS Max_rating,
+    min((driver_rating.time + driver_rating.likeability + driver_rating.order_quality_delivered)/3) AS Min_rating,
+    avg((driver_rating.time + driver_rating.likeability + driver_rating.order_quality_delivered)/3) AS Avg_rating
+    from campus_eats_fall2020.driver_rating
+    where driver_rating.driver_id = 3
+###part(c)
 ## Future Work
 ####- create approval system within database for drivers and resturants
 
