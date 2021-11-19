@@ -16,7 +16,7 @@
 ### Deliverable 2
 #### - Reverse enginier Caampus eats script for the EERD diagram
 #### - Revise EERD to make it more presentable
-#### - Add 20 more loacal resturants to the EERD
+#### - Add 10 more loacal resturants to the EERD
 #### - Implement ratings table for drivers and resturanst within the EERD diagram  
 
 ### Deliverable 3
