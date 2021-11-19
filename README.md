@@ -77,11 +77,13 @@ this screenshot better shows the data used as the dates are more spread out.
 again just to mention this is a good example of the right query but the data is to spread out to fall wihtin a specified week of values and will only return a count of 1
 ![Screenshot (27)](https://user-images.githubusercontent.com/93001002/142291450-450a20d8-7d68-4b54-8d89-c037e2b4be12.png)
 
-###part(e)
+### part(e)
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/93001002/142643946-393512ae-6fc4-479c-b1ab-f6470c230816.png)
 
-###part(f)
+### part(f)
+
+### Trigger for Restaurants Table
 
 
 ## Future Work
