@@ -84,7 +84,9 @@ again just to mention this is a good example of the right query but the data is 
 ### part(f)
 
 ### Trigger for Restaurants Table
+#### -this trigger isnt usfull just used as a way to show the creation of a trigger, The trigger in the picture will activate once the restaurants table is updated and will delete any data that procedes the reasturant_id greater than 100 this will limit the data to only allowing a total of 100 rows within the restaurants table. *** (this trigger will not be used and is an example***)
 
+![Screenshot (4)](https://user-images.githubusercontent.com/93001002/142666444-ff301403-c001-4560-8962-83b8dfadefc8.png)
 
 ## Future Work
 ####- create approval system within database for drivers and resturants
