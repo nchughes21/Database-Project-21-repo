@@ -66,15 +66,15 @@
 ![Screenshot (28)](https://user-images.githubusercontent.com/93001002/142643099-8a910a82-efa4-472b-8e0d-cc95d153c677.png)
 
 ###part(c)
-#### this screenshot gets the right data but the data within this database the current dates are years apart not weeks so there will usually only be one row of data
+this screenshot gets the right data but the data within this database the current dates are years apart not weeks so there will usually only be one row of data
 ![Screenshot (21)](https://user-images.githubusercontent.com/93001002/142276926-46f20d68-6659-452d-9469-c5d5659fad97.png)
 
-####this screenshot better shows the data used as the dates are more spread out.
+this screenshot better shows the data used as the dates are more spread out.
 ![Screenshot (35)](https://user-images.githubusercontent.com/93001002/142649807-550ad59c-f0cf-4fcd-a255-135c685d8e0f.png)
 
 
 ###part(d)
-#### again just to mention this is a good example of the right query but the data is to spread out to fall wihtin a specified week of values and will only return a count of 1
+again just to mention this is a good example of the right query but the data is to spread out to fall wihtin a specified week of values and will only return a count of 1
 ![Screenshot (27)](https://user-images.githubusercontent.com/93001002/142291450-450a20d8-7d68-4b54-8d89-c037e2b4be12.png)
 
 ###part(e)
