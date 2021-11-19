@@ -56,10 +56,14 @@
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/93001002/142276885-52287255-30df-4878-a900-0f1a67aeda25.png)
 
+![Screenshot (29)](https://user-images.githubusercontent.com/93001002/142643077-8bebe25f-c174-47ad-bfd4-4eceaad898f5.png)
+
 ###part(b)
 #####//This is not the correct way of doing part(b) but i kept getting errors when joining multiple tables.\\ I just implemented the driver_id to its appropriate position in the ratings table.\\//
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/93001002/142276907-aefa13b4-40a5-4277-96d5-042833db63ed.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/93001002/142643099-8a910a82-efa4-472b-8e0d-cc95d153c677.png)
 
 ###part(c)
 
