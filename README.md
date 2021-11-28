@@ -83,6 +83,15 @@ again just to mention this is a good example of the right query but the data is 
 
 ### part(f)
 
+![Screenshot (44)](https://user-images.githubusercontent.com/93001002/143772181-d5e76791-d149-4f64-b297-5f6a5e3875bc.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/93001002/143772185-03a6ef3a-6b53-4067-a826-9c772463d208.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/93001002/143772195-7ba0cff0-2d14-40d3-a328-6e34bba33df3.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/93001002/143772197-a366c077-08fb-4c13-9916-b01f56ba11b1.png)
+
+
 ### Trigger for Restaurants Table
 #### -this trigger isnt usfull, its just used as a way to show the creation of a trigger, The trigger in the picture will activate once the restaurants table is updated and will delete any data that procedes the reasturant_id greater than 100 this will limit the data to only allowing a total of 100 rows within the restaurants table. *** (this trigger will not be used and is an example***)
 
