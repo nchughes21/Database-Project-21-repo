@@ -74,7 +74,7 @@ this screenshot better shows the data used as the dates are more spread out.
 
 
 ###part(d)
-again just to mention this is a good example of the right query but the data is to spread out to fall wihtin a specified week of values and will only return a count of 1
+#### here was only one stament that was recived by this statement as the data within the delivery table only recived 
 ![Screenshot (27)](https://user-images.githubusercontent.com/93001002/142291450-450a20d8-7d68-4b54-8d89-c037e2b4be12.png)
 
 ### part(e)
@@ -92,10 +92,7 @@ again just to mention this is a good example of the right query but the data is 
 ![Screenshot (47)](https://user-images.githubusercontent.com/93001002/143772197-a366c077-08fb-4c13-9916-b01f56ba11b1.png)
 
 
-### Trigger for Restaurants Table
-#### -this trigger isnt usfull, its just used as a way to show the creation of a trigger, The trigger in the picture will activate once the restaurants table is updated and will delete any data that procedes the reasturant_id greater than 100 this will limit the data to only allowing a total of 100 rows within the restaurants table. *** (this trigger will not be used and is an example***)
-
-![Screenshot (4)](https://user-images.githubusercontent.com/93001002/142666444-ff301403-c001-4560-8962-83b8dfadefc8.png)
+### Trigger for Restaurants Table - trigger needs to be reset
 
 ## Future Work
 ####- create approval system within database for drivers and resturants
