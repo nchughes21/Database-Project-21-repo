@@ -99,3 +99,8 @@ this screenshot better shows the data used as the dates are more spread out.
 
 Have folders for images, code.
 Turn in Github URL.
+
+## Database project powerpoint
+
+[Database Project.pptx](https://github.com/nchughes21/Database-Project-21-repo/files/7635654/Database.Project.pptx)
+
